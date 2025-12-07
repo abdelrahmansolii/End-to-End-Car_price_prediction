@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+joblib
+flask
+gunicorn
+# if you use Jupyter for notebooks/EDA
+jupyter
+# optionally for nicer printing / dev
+matplotlib
+seaborn
